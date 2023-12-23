@@ -10,7 +10,7 @@ Here is the summary of my projects:
 ## Excel
 | Project   | Description   |
 | ------------- | ------------- |
-| Pizza Place Sales  |   |
+| Maven Excel  | This project is from Udemy Course - Microsoft Excel: Advanced Excel Formulas & Functions Advanced Excel Formulas & Functions Project. This project is to showcase how I use excel formula to analyse the data. In addition, I also go extra by showing the alternative way to analyse the data by using pivot table. |
 
 
 ## Power BI - _In progress_
