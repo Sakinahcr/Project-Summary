@@ -5,7 +5,7 @@ Here is the summary of my projects:
 ## Content:
 - [Excel](#excel)
 - [Power BI](#power-bi---in-progress) _(Learning in progress, coming soon)_
-- [SQL](#SQL) _(Learning in progress, coming soon)_
+- [SQL](#sql) _(Learning in progress, coming soon)_
 
 ## Excel
 | Project   | Description   |
@@ -21,4 +21,4 @@ Here is the summary of my projects:
 ## SQL 
 | Project  | Description   |
 | ------------- | ------------- |
-|  [365-careers-MySQL-course-Project](https://github.com/Sakinahcr/365-careers-MySQL-course-Project?tab=readme-ov-file#365-careers-mysql-course-project) | This project was from Udemy Course - SQL - MySQL for Data Analytics and Business Intelligence. This project is to showcase how I extract the require information from database using MySQL and present the findings using Tableau.  |
+|  [365-careers-MySQL-course-Project](#365-careers-mysql-course-project) | This project was from Udemy Course - SQL - MySQL for Data Analytics and Business Intelligence. This project is to showcase how I extract the require information from database using MySQL and present the findings using Tableau.  |
