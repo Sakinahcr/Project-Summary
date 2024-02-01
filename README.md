@@ -21,4 +21,4 @@ Here is the summary of my projects:
 ## SQL - _In progress_
 | Project  | Description   |
 | ------------- | ------------- |
-|   |   |
+|  365-careers-MySQL-course-Project | This project was from Udemy Course - SQL - MySQL for Data Analytics and Business Intelligence. This project is to showcase how I extract the require information from database using MySQL and present the findings using Tableau.  |
