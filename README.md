@@ -24,3 +24,4 @@ Here is the summary of my projects:
 | Project | Description   |
 | ------------- | ------------- |
 | [Maven-Analytics-Power-BI-Project](https://github.com/Sakinahcr/Maven-Analytics-Power-BI-Project) | This project is from Udemy Course - Microsoft Power BI Desktop for Business Intelligence. This project is to showcase how I **connect and transform raw data**, **build a relational data model**, **create calculated columns and measures with DAX**, and **design an interactive dashboard to visualize the data** using **Power BI**.|
+| Maven Market - In Progress | To analyse a multi-national grocery chain with locations in Canada, Mexico and the United States. |
