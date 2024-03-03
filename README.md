@@ -16,6 +16,7 @@ Here is the summary of my projects:
 ## SQL 
 | Project  | Description   |
 | ------------- | ------------- |
+| 8 Week SQL Challenge by #DatawithDanny | This repo serves as the solution for the 8 case studies from the #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
 |  [365-careers-MySQL-course-Project](https://github.com/Sakinahcr/365-careers-MySQL-course-Project#365-careers-mysql-course-project) | This project is from Udemy Course - SQL - MySQL for Data Analytics and Business Intelligence. This project is to showcase how I extract the required information from database using **MySQL** and present the findings using **Tableau**.  |
 
 
